@@ -2,11 +2,11 @@
 
 Some TouchDesigner projects with a demo picture for each.
 
-## Castle In The Sky
-![Castle In The Sky demo](CastleInTheSky/demo.png)
-
 ## Chihiro Metro
-![Chihiro Metro demo](ChihiroMetro/demo.png)
+<img src="ChihiroMetro/demo.png" width="500" />
 
 ## Fluff
-![Fluff demo](fluff/demo.png)
+<img src="fluff/demo.png" width="500" />
+
+## Castle In The Sky
+<img src="CastleInTheSky/demo.png" width="600" />
