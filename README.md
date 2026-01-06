@@ -3,7 +3,7 @@
 Some TouchDesigner projects with a demo picture for each.
 
 ## BluePrint Jetson Orin Nano
-<img src="BluePrint/demo.png" width="500" />
+<img src="BluePrint/demo.png" width="510" />
 
 ## Chihiro Metro
 <img src="ChihiroMetro/demo.png" width="500" />
