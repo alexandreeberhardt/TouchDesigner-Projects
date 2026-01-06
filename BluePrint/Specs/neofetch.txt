@@ -1,0 +1,20 @@
+neofetch
+                    'c.          alexandre@Alexandre-MacBook-Air.local
+                 ,xNMM.          -------------------------------------
+               .OMMMMo           OS: macOS 26.1 25B78 arm64
+               OMMM0,            Host: Mac16,12
+     .;loddo:' loolloddol;.      Kernel: 25.1.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 1 day, 13 hours, 6 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 169 (brew)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1470x956
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Rectangle
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Terminal: iTerm2
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal Font: Monaco 12
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   CPU: Apple M4
+    kMMMMMMMMMMMMMMMMMMMMMMd     GPU: Apple M4
+     ;KMMMMMMMWXXWMMMMMMMk.      Memory: 2584MiB / 16384MiB
+       .cooc,.    .,coo:.
+
+       
